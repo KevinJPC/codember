@@ -1,0 +1,18 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge01.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "standard"
+    ]
+  }
+}
