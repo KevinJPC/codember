@@ -6,11 +6,7 @@ function decodeMessage ({ message }) {
   for (const word of messageWords) {
     wordCount[word] = wordCount[word] ? wordCount[word] + 1 : 1
   }
-
-  let decodedMessage = ''
-  for (const [word, count] of Object.entries(wordCount)) {
-    decodedMessage += `${word}${count}`
-  }
+  const decodedMessage = Object.entries(wordCount).flat().join('')
 
   return decodedMessage
 }
