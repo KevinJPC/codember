@@ -1,6 +1,6 @@
 # Codember
 
-<pre style='text-align: center'>
+<pre>
                   __                         __
                  /\ \                       /\ \
   ___     ___    \_\ \      __     ___ ___  \ \ \____     __    _ __
