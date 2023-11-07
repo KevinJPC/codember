@@ -2,14 +2,21 @@
 
 ## Challenges
 
-| Challenge | Name                                  |
-| --------- | ------------------------------------- |
-| 1         | [solution]()                          |                       
+[CHALLENGE_01](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_01)                    
 
 ## Secrets
+<details>
+  <summary>last-name</summary>
+  <code>submit rauch</code>
+</details>     
 
-| Secret | Name                   |
-| ------ | ---------------------- |
-| 1      | last-name [solution](# "submit rauch")                                
-| 2      | the-special-date [solution](# "submit 2023-12-01")                           |
-| 3      | konami code [solution](# "Up Up Down Down Left Right Left Right b a")   |
+<details>
+  <summary>the-special-date</summary> 
+  <code>submit 2023-12-01</code> 
+</details>           
+
+<details>
+  <summary>konami code</summary> 
+  <code>Up Up Down Down Left Right Left Right b a</code>
+</details>                              
+
