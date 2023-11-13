@@ -1,19 +1,19 @@
-const decodifier = {
-  '#': (acc) => ({ ...acc, value: acc.value + 1 }),
-  '@': (acc) => ({ ...acc, value: acc.value - 1 }),
-  '*': (acc) => ({ ...acc, value: acc.value * acc.value }),
-  '&': ({ value, result }) => ({ value, result: result.concat(value) })
+const decoder = {
+  '#': ({ value }) => ({ value: value + 1 }),
+  '@': ({ value }) => ({ value: value - 1 }),
+  '*': ({ value }) => ({ value: value * value }),
+  '&': ({ value, result }) => ({ result: result.concat(value) })
 }
 
 function compile ({ code }) {
   const codeCharacters = Array.from(code)
   const initialAccumulator = { value: 0, result: '' }
 
-  const { value, result } = codeCharacters.reduce((acc, character) => {
-    const decodifierFunction = decodifier[character]
-    if (!decodifierFunction) return character
+  const { result } = codeCharacters.reduce((acc, character) => {
+    const decoderFunction = decoder[character]
 
-    return decodifierFunction(acc)
+    const newAcc = decoderFunction ? decoderFunction(acc) : acc
+    return { ...acc, ...newAcc }
   }, initialAccumulator)
 
   return result
