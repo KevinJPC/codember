@@ -30,5 +30,19 @@
 <details>
   <summary>konami code</summary> 
   <code>Up Up Down Down Left Right Left Right b a</code>
+</details>         
+
+<details>
+  <summary>riddle</summary> 
+  <code>submit html</code>
+</details>         
+
+<details>
+  <summary>the most famous magic word</summary> 
+  <code>abracadabra</code> 
+  
+  <code>submit itsmagic</code>
 </details>                              
+
+
 
