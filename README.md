@@ -43,7 +43,12 @@
   <code>abracadabra</code> 
   
   <code>submit itsmagic</code>
-</details>                              
+</details>            
+
+<details>
+  <summary>Confetti</summary>   
+  <code>confetti</code>
+</details>    
 
 
 
