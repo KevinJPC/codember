@@ -19,27 +19,27 @@
 
 ## Secrets
 <details>
-  <summary>last-name</summary>
+  <summary>Last name</summary>
   <code>submit rauch</code>
 </details>     
 
 <details>
-  <summary>the-special-date</summary> 
+  <summary>The special date</summary> 
   <code>submit 2023-12-01</code> 
 </details>           
 
 <details>
-  <summary>konami code</summary> 
+  <summary>Konami code</summary> 
   <code>Up Up Down Down Left Right Left Right b a</code>
 </details>         
 
 <details>
-  <summary>riddle</summary> 
+  <summary>Riddle</summary> 
   <code>submit html</code>
 </details>         
 
 <details>
-  <summary>the most famous magic word</summary> 
+  <summary>The most famous magic word</summary> 
   <code>abracadabra</code> 
   
   <code>submit itsmagic</code>
