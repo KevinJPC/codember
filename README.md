@@ -20,7 +20,7 @@
 
 ## Secrets
 <details>
-  <summary>Last name</summary>
+  <summary>who.png</summary>
   <code>submit rauch</code>
 </details>     
 
