@@ -16,6 +16,7 @@
 
 [CHALLENGE_01](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_01)    
 [CHALLENGE_02](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_02)                   
+[CHALLENGE_03](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_03)                   
 
 ## Secrets
 <details>
@@ -49,6 +50,23 @@
   <summary>Confetti</summary>   
   <code>confetti</code>
 </details>    
+
+<details>
+  <summary>ai.webp</summary>   
+  <code>submit altman</code>
+</details> 
+
+<details>
+  <summary>log_mars_mission.txt</summary>   
+  <code>submit majortom</code>
+</details> 
+
+<details>
+  <summary>barrel roll</summary>   
+  <code>do barrel roll</code>
+</details> 
+
+
 
 
 
