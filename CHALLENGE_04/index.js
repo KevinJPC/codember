@@ -1,6 +1,6 @@
 import { fileListString } from './list.js'
 
-function analizeFiles ({ fileList }) {
+function analyzeFiles ({ fileList }) {
   const initialValue = {
     realFiles: [],
     fakeFiles: []
@@ -25,5 +25,5 @@ function analizeFiles ({ fileList }) {
   )
 }
 const fileList = fileListString.split('\n')
-const { realFiles, fakeFiles } = analizeFiles({ fileList })
+const { realFiles, fakeFiles } = analyzeFiles({ fileList })
 realFiles.forEach((file, index) => console.log(index, file))
