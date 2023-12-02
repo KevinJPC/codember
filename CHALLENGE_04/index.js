@@ -10,8 +10,8 @@ function analyzeFiles ({ fileList }) {
       const [alphanumericString, checksum] = file.split('-')
 
       const stringOfUniqueCharacters = Array.from(alphanumericString).filter((character, index) => {
-        const stringWithoutFirstCharacterOcurrence = alphanumericString.replace(character, '')
-        return !stringWithoutFirstCharacterOcurrence.includes(character)
+        const stringWithoutFirstCharacterOccurrence = alphanumericString.replace(character, '')
+        return !stringWithoutFirstCharacterOccurrence.includes(character)
       }).join('')
 
       if (stringOfUniqueCharacters === checksum) {
