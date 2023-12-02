@@ -66,6 +66,11 @@
   <code>do barrel roll</code>
 </details> 
 
+<details>
+  <summary>cowsay</summary>   
+  <code>ping midu.dev</code>
+</details> 
+
 
 
 
