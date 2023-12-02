@@ -17,7 +17,8 @@
 [CHALLENGE_01](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_01)    
 [CHALLENGE_02](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_02)                   
 [CHALLENGE_03](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_03)      
-[CHALLENGE_04](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_04)              
+[CHALLENGE_04](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_04)      
+[CHALLENGE_05](https://github.com/KevinJPC/codember/tree/main/CHALLENGE_05)          
 
 ## Secrets
 <details>
